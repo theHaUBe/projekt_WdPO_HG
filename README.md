@@ -1,5 +1,9 @@
 # Wprowadzenie do Systemów Wizyjnych
-\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
+
+
+```math
+\begin{bmatrix}X\\Y\end{bmatrix}
+```
 
 
 
