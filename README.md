@@ -1,4 +1,7 @@
 # Wprowadzenie do Systemów Wizyjnych
+\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
+
+
 
 ## Politechnika Poznańska, Instytut Robotyki i Inteligencji Maszynowej
 
