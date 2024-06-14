@@ -2,7 +2,7 @@
 
 
 ```math
-\begin{bmatrix}x\\y\\theta\\phi\end{bmatrix} = \begin{bmatrix}cos\\sin\\tan\\0\end{bmatrix} + \begin{bmatrix}0\\0\\0\\1\end{bmatrix}
+\begin{bmatrix}\dot{x}\\y\\theta\\phi\end{bmatrix} = \begin{bmatrix}cos\\sin\\tan\\0\end{bmatrix} + \begin{bmatrix}0\\0\\0\\1\end{bmatrix}
 ```
 
 
