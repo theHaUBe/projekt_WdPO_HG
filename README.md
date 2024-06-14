@@ -2,7 +2,9 @@
 
 
 ```math
-\begin{bmatrix}\dot{x}\\\dot{y}\\\dot{θ}\\\dot{Φ}\end{bmatrix} = \begin{bmatrix}cos(θ)\\sin(θ)\\tan(Φ)\\0\end{bmatrix}u_1 + \begin{bmatrix}0\\0\\0\\1\end{bmatrix}u_2
+\begin{bmatrix}\dot{x}\\\dot{y}\\\dot{θ}\\\dot{Φ}\end{bmatrix} =
+\begin{bmatrix}cos(θ)\\sin(θ)\\\frac{1}{L}tan(Φ)\\0\end{bmatrix}u_1 +
+\begin{bmatrix}0\\0\\0\\1\end{bmatrix}u_2
 ```
 
 
