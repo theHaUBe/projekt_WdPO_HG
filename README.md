@@ -63,17 +63,6 @@ Szablon projektu zliczania cukierków na zdjęciach dostępny jest w serwisie [G
 
 Katalog [`data`](./data) zawiera przykłady, na podstawie których w pliku [`detect.py`](./detect.py) przygotowany ma zostać algorytm zliczania cukierków. Funkcja `main` w pliku `detect.py` powinna pozostać bez zmian. 
 
-### Wykorzystanie szablonu
-
-W przypadku chęci wykorzystania przygotowanego szablonu oraz systemu kontroli wersji w postaci serwisu GitHub możliwe jest stworzenie własnego repozytorium na podstawie szablonu. W tym celu należy poprzez przycisk `Use this template` utworzyć nowe repozytorium wybierając swoje konto jako właściciela, nadając mu własną nazwę i obowiązkowo ustawiając widzialność jako **prywatne**. Powyższe kroki zostały przedstawione na załączonych zdjęciach.
-
-<p align="center">
-  <img width="900" height="200" src="./readme_files/create_repo_from_template_01.png">
-</p>
-<p align="center">
-  <img width="600" height="500" src="./readme_files/create_repo_from_template_02.png">
-</p>
-
 ### Biblioteki
 
 Interpreter testujący projekty będzie miał zainstalowane biblioteki w wersjach:
