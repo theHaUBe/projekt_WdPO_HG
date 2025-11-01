@@ -1,6 +1,6 @@
 # WdPO_project – Wprowadzenie do Systemów Wizyjnych
 
-To repozytorium zawiera kompletną implementację zadań laboratoryjnych z kursu *Wprowadzenie do Systemów Wizyjnych*. Projekt koncentruje się na aplikacji wykorzystującej przetwarzanie obrazu - automatyczna kontrola ilości obiektów na linii produkcyjnej wraz z rozróżnieniem ich klasy np. w celu ich sortowania w dalszym kroku.
+Projekt koncentruje się na aplikacji wykorzystującej przetwarzanie obrazu - automatyczna kontrola ilości obiektów na linii produkcyjnej wraz z rozróżnieniem ich klasy np. w celu ich sortowania w dalszym kroku.
 
 Zadanie projektowe polega na przygotowaniu algorytmu wykrywania i zliczania kolorowych cukierków znajdujących się na zdjęciach. Dla uproszczenia zadania w zbiorze danych występują jedynie 4 kolory cukierków:
 - czerwony
